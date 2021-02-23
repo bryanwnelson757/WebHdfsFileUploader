@@ -1,0 +1,9 @@
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\bin\Debug\netcoreapp3.1\WebHdfsFileUploader.deps.json
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\bin\Debug\netcoreapp3.1\WebHdfsFileUploader.dll
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\bin\Debug\netcoreapp3.1\WebHdfsFileUploader.pdb
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\obj\Debug\netcoreapp3.1\WebHdfsFileUploader.csprojAssemblyReference.cache
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\obj\Debug\netcoreapp3.1\WebHdfsFileUploader.AssemblyInfoInputs.cache
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\obj\Debug\netcoreapp3.1\WebHdfsFileUploader.AssemblyInfo.cs
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\obj\Debug\netcoreapp3.1\WebHdfsFileUploader.csproj.CoreCompileInputs.cache
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\obj\Debug\netcoreapp3.1\WebHdfsFileUploader.dll
+C:\Users\bwnel\source\repos\WebHdfsFileUploader\obj\Debug\netcoreapp3.1\WebHdfsFileUploader.pdb
